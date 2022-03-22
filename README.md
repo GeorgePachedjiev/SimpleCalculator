@@ -1,2 +1,2 @@
-# SimpleCalculator
-First Git Project
+
+This is my first git repositories called "Simple Calculator".
